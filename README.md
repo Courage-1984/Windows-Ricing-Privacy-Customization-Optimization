@@ -25,7 +25,7 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 > [!IMPORTANT]
 > This will not be a too in depth guide as **a lot** of the resoures I will provide has guides or steps whithin them or is just straight forward and instructions is not needed.
 
-## Quickies
+## 🏎️ Quickies
 *things that you can decide if you want it or not and takes just a moment to implement*
 
 
