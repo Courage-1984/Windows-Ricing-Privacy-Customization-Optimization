@@ -86,6 +86,13 @@ Lists of Reg Keys:
 - [Prevent Windows 10 from Automatically Restarting Your PC After Updating](https://lifehacker.com/prevent-windows-10-from-automatically-restarting-your-p-1723647582)
 - [Fix problems that block programs from being installed or removed](https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) - The Program Install and Uninstall troubleshooter helps you automatically repair issues when you're blocked from installing or removing programs. It also fixes corrupted registry keys.
 
+### 🦠 Online Url and File Analyses
+- [VirusTotal](https://www.virustotal.com/) - Analyse suspicious files, domains, IPs and URLs to detect malware and other breaches
+- [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free Automated Malware Analysis Service. This is a free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
+- [Cloudflare Radar URL Scanner](https://radar.cloudflare.com/scan) - Understand the security, performance, technology, and network details of a URL with a publicly shareable report.
+- [Jotti's malware scan](https://virusscan.jotti.org/) - Jotti's malware scan is a free service that lets you scan suspicious files with several anti-virus programs.
+- [ANY-RUN](https://any.run/) - Interactive Online Malware Sandbox
+
 ***
 ![wallpaper_3840x886_1710695846578](https://github.com/Courage-1984/Windows-Ricing-Privacy-Customization-Optimization/assets/18268669/81381a9d-603c-43aa-9245-819e535ad81a)
 # 🧰 Debloating, Optimisation, Customisation & Privacy
@@ -146,6 +153,23 @@ You can just run the following in your powershell:
 
 > This was a short one. Items listed in this section is basically leftovers, ones that did not make it to the first and second section thus they are not neccecary if you used the ones in the first and second section.
 
+## 🥈 Honorable Mentions
+
+- [Eylenburg's Tech Website](https://eylenburg.github.io/) - Detailed Comparisons of OS's, Browsers, Environments and Services
+- [System Tools, Hardware Tools, Windows ISOs, Customization](https://fmhy.net/system-tools) - System Tools, Hardware Tools, Windows ISOs, Customization
+- [Couleur Tweak Tips](https://ctt.cx/) - Couleur Tweak Tips - a comprehensive aggregation of useful resources for enthusiasts looking to expand their toolchain of programs and adopt good practices to enhance the quality of life in daily computer use and video production.
+- [CTT Wiki](https://github.com/couleur-tweak-tips/CTT) - Couleur Tweak Tips documentation hosted on GitHub Pages using Material for MkDocs
+- [Couleur Tweak Tips Ongoing Projects](https://github.com/couleur-tweak-tips) - Couleur Tweak Tips Ongoing Projects
+- [KMS_VL_ALL_AIO](https://raw.githubusercontent.com/abbodi1406/KMS_VL_ALL_AIO/master/KMS_VL_ALL_AIO.cmd) - Right click this link and save as KMS_VL_ALL_AIO.cmd. The BEST windows and office activator.
+- [Open-Shell](https://open-shell.github.io/Open-Shell-Menu/) - A collection of utilities bringing back classic features to Windows.
+- [QuickBoost](https://github.com/SanGraphic/QuickBoost) - Automated Windows 10 / 11 Tweaking Utility
+- [QuickMon](https://github.com/RudolfHenning/QuickMon) - QuickMon is a simple monitoring and alerting tool. It allows you to monitor and alert on various resources/services locally or remotely.
+- [Winaero Tweaker](https://winaerotweaker.com/) - It is an all-in-one application that comes with dozens of options for fine-grained tuning of various Windows settings and features
+- [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite) - The Sysinternals Troubleshooting Utilities have been rolled up into a single Suite of tools
+- [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Process Explorer shows you information about which handles and DLLs processes have opened or loaded
+- [Pegasun System Utilities](https://pegasun.com/system-utilities) - Maximize PC performance and battery life
+- [Blackbird](https://www.getblackbird.net/) - Windows privacy, security and performance
+
 ***
 ![wallpaper_3840x886_1710698131501](https://github.com/Courage-1984/Windows-Ricing-Privacy-Customization-Optimization/assets/18268669/59647495-3441-4328-b2ce-db6ae409a6cf)
 # 🍙 Ricing Windows
@@ -164,6 +188,105 @@ You can just run the following in your powershell:
 ****[READ ME IF YOU HAVE NO IDEA WHAT YOU ARE DOING](https://pastebin.com/raw/mtgSWp42)****
 
 ### 💜 My Recommendations
+
+#### First we will start of with the software you should have
+
+[Icaros](https://github.com/Xanashi/Icaros) - Icaros Shell Extensions: Icaros is a collection of lightweight, high quality, Windows Shell Extensions. Provide Windows Explorer thumbnails and properties for almost any file type!
+
+[7+ Taskbar Tweaker](https://tweaker.ramensoftware.com/) - Customize the Windows taskbar with dozens of exclusive options. Adapt the taskbar to your workflow, not the other way around.
+
+[TranslucentTB](https://github.com/TranslucentTB/TranslucentTB?tab=readme-ov-file) - A lightweight utility that makes the Windows taskbar translucent/transparent.
+
+[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+
+[QTTabBar](http://qttabbar.wikidot.com/) - Adds a lot more functionality to Explorer, including tabs, hotkeys and alternative navigation panes.
+
+[OldNewExplorer](https://msfn.org/board/topic/170375-oldnewexplorer-119/) - OldNewExplorer is the Windows 10 (and Windows 8.1, and 8) shell extension / tweaker which can undo "improvements" to file browsing made in newer Windows version. Everything is optional for your liking.
+
+[StartIsBack](https://startisback.com/) - Real start menu for Windows 8 and Windows 10. Start menu is back and it's better than ever. Get the most useful shell enhancement for Windows 10 now!
+
+[Volume²](https://github.com/irzyxa/Volume2) - advanced Windows volume control
+
+[Mouse Wheel Accelerator](https://sourceforge.net/projects/mwaccelerator/) - Mouse Wheel Accelerator improves the wheel scroll in windows towards dynamic smooth iPhone-like scrolling.
+
+[Microsoft PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+
+[AutoHotkey](https://www.autohotkey.com/) - The ultimate automation scripting language for Windows.
+
+Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-AutoHotkeys) - Custom AutoHotkeys for efficiency / productivity.
+
+[ClipClip](https://clipclip.com/) - clipboard management software for Windows
+
+[flux](https://justgetflux.com/) - makes the color of your computer's display adapt to the time of day
+
+[TeraCopy](https://www.codesector.com/teracopy) - Copy your files faster and more securely
+
+[Jocys-com Clock](https://www.jocys.com/Clock/) - Clock for WINDOWS
+
+[Mactype](https://www.dropbox.com/s/nyaxc8h1hb6lcx2/MacType.zip?e=2) - Better font rendering, includes version for W7 and W10 (also works on 8.1).
+
+[7-Zip](https://www.7-zip.org/) - file archiver with a high compression ratio
+
+[JDownloader 2](https://jdownloader.org/jdownloader2) - open-source download management tool
+
+#### Cursor:
+
+- [Mac Mouse Pointer Guide](https://www.intowindows.com/download-mac-mouse-cursor-for-windows-10/) - How To Get Mac Mouse Pointer (Cursor)
+- [macOS Sierra Retina cursors](https://www.deviantart.com/in-dolly/art/macOS-Sierra-Retina-cursors-650823654) - macOS Sierra Retina cursors
+- [ElCapitan cursors](https://www.deviantart.com/in-dolly/art/Updated-ElCapitan-cursors-593804414) - Updated ElCapitan cursors
+**ElCapitan cursors is smaller but the macOS Sierra Retina cursors is much cleaner!**
+- [Open Cursor Library](http://www.rw-designer.com/) - This library contains computer mouse cursors for Microsoft Windows systems. - 182220 cursors
+- [Cursor Editor](https://www.cursor.cc/?) - A Cursor Editor for those custom cursors of yours.
+
+#### Font:
+
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) - A free and open source typeface for developers
+- [Google Fonts](https://fonts.google.com/) - Browse Fonts
+- [FontSpace](https://www.fontspace.com/) - Free Fonts | 120,000+ Font Downloads
+- [DaFont](https://www.dafont.com/) - Download fonts
+
+### I have not yet gotten into themes and wallpapers but I have some links for y'all and don't forget the ricing guides at the end of this section!
+
+- [WINDOWSCUSTOMIZATION](https://windowscustomization.com/) - Shape your computer beautifully - Themes, Icons, Cursors, Wallpapers, Rainmeter & Miscellaneous.
+- [7themes-su](https://7themes.su/) - OS Windows Themes, Skins, Icons, Wallpaper, Cursors & Miscellaneous.
+- [Discover Customization on DeviantArt](https://www.deviantart.com/topic/customization) - Download custom skins and assets to personalize your day-to-day tools and applications.
+- [Explore Windows10](https://www.deviantart.com/tag/windows10) - Explore the Best Windows10 Art & Themes.
+- [Dracula](https://draculatheme.com/) - One theme. All platforms.
+- [Catppuccin Theme](https://github.com/catppuccin) - Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes.
+- [Aura Theme](https://github.com/daltonmenezes/aura-theme) - A beautiful dark theme for your favorite apps.
+- [themer](https://themer.dev/) - development environment theme creator
+- [terminal-sexy](https://terminal.sexy/) - Terminal Color Scheme Designer
+- [TerminalSplash](https://terminalsplash.com/) - Windows Terminal Themes
+- [Windows Terminal Themes](https://windowsterminalthemes.dev/) - Windows Terminal Themes
+
+### 🌐 Ricing Guides & Indexes
+
+[ri • cing](https://www.ricing.chloechantelle.com/) - A nice, short and sweet ricing guide. The one that started this journey of discovering ricing for me!
+
+[nanami-tan](https://namazso.github.io/nanami-tan/) - In-depth Ricing resource and index of helpful links. [Github Repo](https://github.com/namazso/nanami-tan/)
+
+[The Windows Theming Wiki](https://github.com/winthemers/wiki) - Guides you need to start your windows ricing journey.
+
+[Windows Ricing](https://ninjasr.heliohost.org/w/lb/windows) - Ricing (customizing) Windows.
+
+[WINDOWS 10 RICING](https://github.com/DavidRela/riceWindows) - Windows 10 Ricing Guide - Tools, tutorials, and resources to get the best possible experience on an Microsoft Windows based system.
+
+[list o' resources](https://rizonrice.github.io/resources) - Ricing resources for Linux, Mac and Windows.
+
+[FMHY Themes / Ricing](https://fmhy.net/system-tools#themes-ricing) - FMHY Themes / Ricing
+
+[winthemers](https://winthemers.github.io/) - winthemers is a community dedicated to customizing windows. [Github Repo](https://github.com/winthemers)
+
+[r/ricing](https://www.reddit.com/r/ricing/) - This reddit is intended to be a central resource to help users get started with desktop customization
+
+
+
+
+
+
+
+
+
 
 
 
