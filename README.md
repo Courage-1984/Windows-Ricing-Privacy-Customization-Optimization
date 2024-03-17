@@ -161,7 +161,11 @@ You can just run the following in your powershell:
 > [!NOTE]
 > I will be suggesting the stuff I did and like but at the end of this section I wil be posting resources to the best ricing guides and repos/indexes I found so go through them for a full understanding of what and how you can actully customise your windows. I highly recommend it.
 
-### 
+****[READ ME IF YOU HAVE NO IDEA WHAT YOU ARE DOING](https://pastebin.com/raw/mtgSWp42)****
+
+### 💜 My Recommendations
+
+
 
 
 
