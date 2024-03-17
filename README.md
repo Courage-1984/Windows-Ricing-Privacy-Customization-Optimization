@@ -111,11 +111,20 @@ You can just run the following in your powershell:
 
 📌 [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Remove large amounts of unwanted applications quickly.
 
+> That basically covers it for the first section. With these tools you now should have a nice clean, debloated, optimised and fast system.
 ***
 
+###  SECOND:
 
+🔥 [privacy is sexy](https://privacy.sexy/) - 🔐 Enforce privacy & security best-practices on Windows, macOS and Linux.
 
+✨ [Optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer
 
+📌 [Privatezilla](https://github.com/builtbybel/privatezilla#download) - 👀👮🐢🔥Performs a privacy & security check of Windows 10
+
+📌 [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11
+
+> 
 
 
 
