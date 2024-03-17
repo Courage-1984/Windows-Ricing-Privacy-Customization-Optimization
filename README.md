@@ -46,10 +46,14 @@ Lists of Reg Keys:
 - [Remove the language indicator](https://www.askvg.com/fix-input-indicator-icon-comes-back-in-taskbar-notification-area-after-restarting-windows/) - Permanently remove language indicator from the taskbar
 - [Fix search indexing](https://lifehacker.com/set-windows-10-to-search-all-file-contents-with-this-se-1733511735) - Start menu will search through files and file contents
 - [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
-- []() -
-- []() -
+- [How to Prevent Windows 10 or 11 From Automatically Downloading Updates](https://www.howtogeek.com/224471/how-to-prevent-windows-10-from-automatically-downloading-updates/)
+- [How to stop Windows 10 from automatically updating device drivers](https://forums.tomshardware.com/faq/how-to-stop-windows-10-from-automatically-updating-device-drivers.2398360/)
+- [Prevent Windows 10 from Automatically Restarting Your PC After Updating](https://lifehacker.com/prevent-windows-10-from-automatically-restarting-your-p-1723647582)
 - []()
-- {}()
+- []()
+- []()
+- []()
+- []()
 
 
 
