@@ -36,6 +36,10 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 - [Show more details in Details pane of File Explorer](https://github.com/Courage-1984/Show-more-details-in-Details-pane-of-File-Explorer)
 - [Add Take Ownership to Context Menu in Windows 10](https://github.com/Courage-1984/Add-Take-Ownership-to-Context-Menu)
 
+Lists of Reg Keys: 
+- [Registry Tweaks](https://www.ricing.chloechantelle.com/#advanced)
+- [Registry Editing](https://namazso.github.io/nanami-tan/#RegEdit)
+
 ### 🪛 Tweaks
 - [Windows God Mode Control Panel](https://github.com/Courage-1984/Windows-God-Mode-Control-Panel)
 - [How to ACTUALLY Change the Windows Default System Font](https://github.com/Courage-1984/Windows-Change-Default-System-Font)
@@ -44,12 +48,10 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 - [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
 - []() -
 - []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
-- []() -
+- []()
+- {}()
+
+
 
 
 
