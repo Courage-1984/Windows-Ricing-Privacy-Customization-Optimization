@@ -25,7 +25,32 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 > [!IMPORTANT]
 > This will not be a too in depth guide as **a lot** of the resoures I will provide has guides or steps whithin them or is just straight forward and instructions is not needed.
 
-## 🏎️ Quickies
+# 🏎️ Quickies
 *things that you can decide if you want it or not and takes just a moment to implement*
+
+### 🔑 Some Useful Registry Keys:
+- [How to Remove the Folders From “This PC” on Windows 10](https://github.com/Courage-1984/Remove-Folders-From-This-PC-Win10)
+- [Disable Windows Web Search in Start](https://github.com/Courage-1984/Disable-Windows-Web-Search-in-Start)
+- [How to Enable Windows Photo Viewer in Windows 10](https://github.com/Courage-1984/Enable-Windows-Photo-Viewer-Win10)
+- [Pin Files to Start on Windows 10](https://github.com/Courage-1984/Pin-Files-to-Start-Windows-10)
+- [Show more details in Details pane of File Explorer](https://github.com/Courage-1984/Show-more-details-in-Details-pane-of-File-Explorer)
+- [Add Take Ownership to Context Menu in Windows 10](https://github.com/Courage-1984/Add-Take-Ownership-to-Context-Menu)
+
+### 🪛 Tweaks
+- [Windows God Mode Control Panel](https://github.com/Courage-1984/Windows-God-Mode-Control-Panel)
+- [How to ACTUALLY Change the Windows Default System Font](https://github.com/Courage-1984/Windows-Change-Default-System-Font)
+- [Remove the language indicator](https://www.askvg.com/fix-input-indicator-icon-comes-back-in-taskbar-notification-area-after-restarting-windows/) - Permanently remove language indicator from the taskbar
+- [Fix search indexing](https://lifehacker.com/set-windows-10-to-search-all-file-contents-with-this-se-1733511735) - Start menu will search through files and file contents
+- [WinSetView](https://github.com/LesFerch/WinSetView) - Globally Set Explorer Folder Views
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+- []() -
+
+
 
 
