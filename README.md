@@ -14,6 +14,8 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 > [!TIP]
 > **ALSO: Make a habit of creating System Restore Points often:**
 > [How to Create a System Restore Point in Windows 10](https://www.tenforums.com/tutorials/4571-create-system-restore-point-windows-10-a.html)
+> **ALSO: Make a habit of creating Backups of you Registry often:**
+> [Create a Backup of the Entire Windows Registry](https://techpp.com/2022/03/11/backup-and-restore-windows-registry-guide/#Method_2_Create_a_Backup_of_the_Entire_Windows_Registry)
 
 > [!NOTE]
 > My thinking for the general direction of this guide/repo is the following:
@@ -23,7 +25,7 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 > 4. And lastly just some general stuff
 
 > [!IMPORTANT]
-> This will not be a too in depth guide as **a lot** of the resoures I will provide has guides or steps whithin them or is just straight forward and instructions is not needed.
+> This will not be a too in depth guide as **a lot** of the resoures I will provide has guides or steps whithin them or is just straight forward and instructions is not needed or is provided on their site.
 
 # 🪟 Windows
 *some important and must have top level stuff for windows*
@@ -77,6 +79,42 @@ Lists of Reg Keys:
 - [How to Prevent Windows 10 or 11 From Automatically Downloading Updates](https://www.howtogeek.com/224471/how-to-prevent-windows-10-from-automatically-downloading-updates/)
 - [How to stop Windows 10 from automatically updating device drivers](https://forums.tomshardware.com/faq/how-to-stop-windows-10-from-automatically-updating-device-drivers.2398360/)
 - [Prevent Windows 10 from Automatically Restarting Your PC After Updating](https://lifehacker.com/prevent-windows-10-from-automatically-restarting-your-p-1723647582)
+- [Fix problems that block programs from being installed or removed](https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) - The Program Install and Uninstall troubleshooter helps you automatically repair issues when you're blocked from installing or removing programs. It also fixes corrupted registry keys.
+
+# 🧰 Debloating, Optimisation, Customisation & Privacy
+*This section will cover Debloating, Optimising, Tweaking & Customising your system along with some privacy stuff.*
+
+> [!IMPORTANT]
+> **This section will have somewhat of an order to it. My top recommadations will be listed first and all will follow in and order of what I suggest to use them.**
+
+### 🌟 FIRST:
+
+🔥 [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+
+You can just run the following in your powershell:
+``` sh
+  iwr -useb https://christitus.com/win | iex
+```
+
+✨ [SophiApp](https://github.com/Sophia-Community/SophiApp) - ⚡ The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+
+You can just run the following in your powershell:
+``` sh
+  iwr app.sophia.team -useb | iex
+```
+
+📌 [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) - ⚡ The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
+
+**This is basically the same thing as the previous but it's the script and not an app. The script is a bit autonomous so I suggest rather using the app SophiApp**
+
+📌 [O&O AppBuster](https://www.oo-software.com/en/ooappbuster) - Bust Apps you do not want!
+
+📌 [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Remove large amounts of unwanted applications quickly.
+
+***
+
+
+
 
 
 
