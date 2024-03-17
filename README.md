@@ -25,6 +25,34 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 > [!IMPORTANT]
 > This will not be a too in depth guide as **a lot** of the resoures I will provide has guides or steps whithin them or is just straight forward and instructions is not needed.
 
+# 🪟 Windows
+*some important and must have top level stuff for windows*
+
+### 📁 Windows & Windows Files
+[MAS](https://massgrave.dev/) - Microsoft Activation Scripts: A Windows and Office activator, also get your Genuine Installation Media for Windows & Office here.
+
+[TechBench](https://tb.rg-adguard.net/public.php) - Get your windows and office ISOs here. This project will no longer be updated. New project:
+
+[List of files by Microsoft®](https://files.rg-adguard.net/) - List of files by Microsoft®
+
+### 🖥️ command-line shell
+[Windows Terminal](https://apps.microsoft.com/detail/9n0dx20hk701?rtc=1&hl=en-fr&gl=FR) - The Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
+
+[PowerShell 7](https://www.howtogeek.com/663684/how-to-install-powershell-7-on-windows-10/) - PowerShell is a task automation and configuration management program from Microsoft, consisting of a command-line shell and the associated scripting language.
+
+[WSL](https://learn.microsoft.com/en-us/windows/wsl/install#install-wsl-command) - Windows Subsystem for Linux: Windows Subsystem for Linux is a feature of Windows that allows developers to run a Linux environment without the need for a separate virtual machine or dual booting.
+
+### 📦 Package Manager
+[winget](https://apps.microsoft.com/detail/9nblggh4nns1?rtc=1&hl=en-fr&gl=FR#activetab=pivot:overviewtab) - Windows Package Manager
+
+[Chocolatey](https://chocolatey.org/) - The package manager for Windows
+
+[Ninite](https://ninite.com/) - Install and Update All Your Programs at Once
+
+[Python](https://www.python.org/downloads/) - Python is a programming language that lets you work quickly and integrate systems more effectively.
+
+[pip](https://pip.pypa.io/en/stable/installation/) - pip is the package installer for Python. You can use it to install packages from the Python Package Index and other indexes.
+
 # 🏎️ Quickies
 *things that you can decide if you want it or not and takes just a moment to implement*
 
@@ -49,11 +77,7 @@ Lists of Reg Keys:
 - [How to Prevent Windows 10 or 11 From Automatically Downloading Updates](https://www.howtogeek.com/224471/how-to-prevent-windows-10-from-automatically-downloading-updates/)
 - [How to stop Windows 10 from automatically updating device drivers](https://forums.tomshardware.com/faq/how-to-stop-windows-10-from-automatically-updating-device-drivers.2398360/)
 - [Prevent Windows 10 from Automatically Restarting Your PC After Updating](https://lifehacker.com/prevent-windows-10-from-automatically-restarting-your-p-1723647582)
-- []()
-- []()
-- []()
-- []()
-- []()
+
 
 
 
