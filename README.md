@@ -27,6 +27,8 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 > [!IMPORTANT]
 > This will not be a too in depth guide as **a lot** of the resoures I will provide has guides or steps whithin them or is just straight forward and instructions is not needed or is provided on their site.
 
+***
+![1201088](https://github.com/Courage-1984/Windows-Ricing-Privacy-Customization-Optimization/assets/18268669/356128a8-2f79-41a5-b6b4-05ac398d0f7c)
 # 🪟 Windows
 *some important and must have top level stuff for windows*
 
@@ -55,6 +57,8 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 
 [pip](https://pip.pypa.io/en/stable/installation/) - pip is the package installer for Python. You can use it to install packages from the Python Package Index and other indexes.
 
+***
+![wallpaper_3840x886_1710695249428](https://github.com/Courage-1984/Windows-Ricing-Privacy-Customization-Optimization/assets/18268669/bc9aa4d1-bfcf-4f14-9bfe-71c89109cf5a)
 # 🏎️ Quickies
 *things that you can decide if you want it or not and takes just a moment to implement*
 
@@ -81,13 +85,15 @@ Lists of Reg Keys:
 - [Prevent Windows 10 from Automatically Restarting Your PC After Updating](https://lifehacker.com/prevent-windows-10-from-automatically-restarting-your-p-1723647582)
 - [Fix problems that block programs from being installed or removed](https://support.microsoft.com/en-us/topic/fix-problems-that-block-programs-from-being-installed-or-removed-cca7d1b6-65a9-3d98-426b-e9f927e1eb4d) - The Program Install and Uninstall troubleshooter helps you automatically repair issues when you're blocked from installing or removing programs. It also fixes corrupted registry keys.
 
+***
+![wallpaper_3840x886_1710695846578](https://github.com/Courage-1984/Windows-Ricing-Privacy-Customization-Optimization/assets/18268669/81381a9d-603c-43aa-9245-819e535ad81a)
 # 🧰 Debloating, Optimisation, Customisation & Privacy
-*This section will cover Debloating, Optimising, Tweaking & Customising your system along with some privacy stuff.*
+*This section will cover Debloating, Optimising & Tweaking your system along with some Privacy stuff.*
 
 > [!IMPORTANT]
 > **This section will have somewhat of an order to it. My top recommadations will be listed first and all will follow in and order of what I suggest to use them.**
 
-### 🌟 FIRST:
+## 🌟 FIRST:
 
 🔥 [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
@@ -112,9 +118,8 @@ You can just run the following in your powershell:
 📌 [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Remove large amounts of unwanted applications quickly.
 
 > That basically covers it for the first section. With these tools you now should have a nice clean, debloated, optimised and fast system.
-***
 
-###  SECOND:
+## 🌟 SECOND:
 
 🔥 [privacy is sexy](https://privacy.sexy/) - 🔐 Enforce privacy & security best-practices on Windows, macOS and Linux.
 
@@ -124,7 +129,38 @@ You can just run the following in your powershell:
 
 📌 [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11
 
-> 
+> and that's the second part. You should now have some robust security, privacy, anti-telementary, anti-data-collection, anti-spying, and so one...
+
+## 🌟 THIRD:
+
+- [WPD](https://wpd.app/) - WPD is the most convenient way to configure various privacy settings in Windows.
+- [WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) - Block spying and tracking on Windows
+- [MajorPrivacy](https://github.com/xanasoft/MajorPrivacy/) - Advanced Privacy Tool for Windows
+- [Awesome Windows privacy](https://github.com/TemporalAgent7/awesome-windows-privacy?tab=readme-ov-file) - A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows
+- [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
+- [DisableWinTracking](https://github.com/bitlog2/DisableWinTracking?tab=readme-ov-file) - Uses some known methods that attempt to minimize tracking in Windows 10
+- [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+- [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
+- [Comparison of Windows 10 Privacy tools](https://www.ghacks.net/2015/08/14/comparison-of-windows-10-privacy-tools/) - Comparison of Windows 10 Privacy tools
+
+> This was a short one. Items listed in this section is basically leftovers, ones that did not make it to the first and second section thus they are not neccecary if you used the ones in the first and second section.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
