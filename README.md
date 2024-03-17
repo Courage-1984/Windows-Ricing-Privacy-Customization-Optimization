@@ -14,6 +14,7 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 > [!TIP]
 > **ALSO: Make a habit of creating System Restore Points often:**
 > [How to Create a System Restore Point in Windows 10](https://www.tenforums.com/tutorials/4571-create-system-restore-point-windows-10-a.html)
+> 
 > **ALSO: Make a habit of creating Backups of you Registry often:**
 > [Create a Backup of the Entire Windows Registry](https://techpp.com/2022/03/11/backup-and-restore-windows-registry-guide/#Method_2_Create_a_Backup_of_the_Entire_Windows_Registry)
 
@@ -22,7 +23,7 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 > 1. First I'll start with the **debloating** and **privacy** stuff, after all it is ideal to have a nice clean system for the next
 > 2. Then I will move on to somewhat a mixture of traditional **ricing** along with **tweaking** and **optimization**
 > 3. After which I will recomend some general **software** to have
-> 4. And lastly just some general stuff
+> 4. And lastly just some general **stuff**
 
 > [!IMPORTANT]
 > This will not be a too in depth guide as **a lot** of the resoures I will provide has guides or steps whithin them or is just straight forward and instructions is not needed or is provided on their site.
@@ -145,8 +146,22 @@ You can just run the following in your powershell:
 
 > This was a short one. Items listed in this section is basically leftovers, ones that did not make it to the first and second section thus they are not neccecary if you used the ones in the first and second section.
 
+***
+![wallpaper_3840x886_1710698131501](https://github.com/Courage-1984/Windows-Ricing-Privacy-Customization-Optimization/assets/18268669/59647495-3441-4328-b2ce-db6ae409a6cf)
+# 🍙 Ricing Windows
+**ri • cing**
 
+*/ry-sing/*
 
+*making windows yours. tweaking & customising to fit your needs*
+
+> [!CAUTION]
+> **Don't forget to do your system restore points and backups often along with the registry, espescially with this section!**
+
+> [!NOTE]
+> I will be suggesting the stuff I did and like but at the end of this section I wil be posting resources to the best ricing guides and repos/indexes I found so go through them for a full understanding of what and how you can actully customise your windows. I highly recommend it.
+
+### 
 
 
 
