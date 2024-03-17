@@ -233,9 +233,14 @@ Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-Auto
 - [Mac Mouse Pointer Guide](https://www.intowindows.com/download-mac-mouse-cursor-for-windows-10/) - How To Get Mac Mouse Pointer (Cursor)
 - [macOS Sierra Retina cursors](https://www.deviantart.com/in-dolly/art/macOS-Sierra-Retina-cursors-650823654) - macOS Sierra Retina cursors
 - [ElCapitan cursors](https://www.deviantart.com/in-dolly/art/Updated-ElCapitan-cursors-593804414) - Updated ElCapitan cursors
+- 
 **ElCapitan cursors is smaller but the macOS Sierra Retina cursors is much cleaner!**
+
+****check out the repo above for a folder of mac cursors****
+  
 - [Open Cursor Library](http://www.rw-designer.com/) - This library contains computer mouse cursors for Microsoft Windows systems. - 182220 cursors
 - [Cursor Editor](https://www.cursor.cc/?) - A Cursor Editor for those custom cursors of yours.
+
 
 #### Font:
 
