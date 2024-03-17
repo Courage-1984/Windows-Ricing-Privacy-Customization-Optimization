@@ -22,8 +22,7 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 > My thinking for the general direction of this guide/repo is the following:
 > 1. First I'll start with the **debloating** and **privacy** stuff, after all it is ideal to have a nice clean system for the next
 > 2. Then I will move on to somewhat a mixture of traditional **ricing** along with **tweaking** and **optimization**
-> 3. After which I will recomend some general **software** to have
-> 4. And lastly just some general **stuff**
+> 3. And lastly I will recomend some general **software** to have
 
 > [!IMPORTANT]
 > This will not be a too in depth guide as **a lot** of the resoures I will provide has guides or steps whithin them or is just straight forward and instructions is not needed or is provided on their site.
@@ -279,33 +278,12 @@ Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-Auto
 
 [r/ricing](https://www.reddit.com/r/ricing/) - This reddit is intended to be a central resource to help users get started with desktop customization
 
+***
 
+# ⚙️ General Software
 
+### Instead of creating another list I just thought I'd give you a link to another list of software I made: [Pixelated Pathways](https://courage-1984.github.io/pixelated-pathways/#software)
+***
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 🖥️ I hope you enjoyed this guide/list and found some stuff usefull.
 
