@@ -46,6 +46,8 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 
 [WSL](https://learn.microsoft.com/en-us/windows/wsl/install#install-wsl-command) - Windows Subsystem for Linux: Windows Subsystem for Linux is a feature of Windows that allows developers to run a Linux environment without the need for a separate virtual machine or dual booting.
 
+[Hyper™](https://hyper.is/) - Terminal
+
 ### 📦 Package Manager
 [winget](https://apps.microsoft.com/detail/9nblggh4nns1?rtc=1&hl=en-fr&gl=FR#activetab=pivot:overviewtab) - Windows Package Manager
 
