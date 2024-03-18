@@ -233,10 +233,12 @@ Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-Auto
 - [Mac Mouse Pointer Guide](https://www.intowindows.com/download-mac-mouse-cursor-for-windows-10/) - How To Get Mac Mouse Pointer (Cursor)
 - [macOS Sierra Retina cursors](https://www.deviantart.com/in-dolly/art/macOS-Sierra-Retina-cursors-650823654) - macOS Sierra Retina cursors
 - [ElCapitan cursors](https://www.deviantart.com/in-dolly/art/Updated-ElCapitan-cursors-593804414) - Updated ElCapitan cursors
-- 
-**ElCapitan cursors is smaller but the macOS Sierra Retina cursors is much cleaner!**
 
-****check out the repo above for a folder of mac cursors****
+**ElCapitan cursors is smaller but the macOS Sierra Retina cursors is much cleaner!**
+- [Apple Cursor](https://github.com/ful1e5/apple_cursor?tab=readme-ov-file) - Free & Open source macOS Cursors.
+- [macOS Cursors Megapack for Windows](https://github.com/antiden/macOS-cursors-for-Windows?tab=readme-ov-file) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
+
+****check out this repo above for a folder of mac cursors****
   
 - [Open Cursor Library](http://www.rw-designer.com/) - This library contains computer mouse cursors for Microsoft Windows systems. - 182220 cursors
 - [Cursor Editor](https://www.cursor.cc/?) - A Cursor Editor for those custom cursors of yours.
@@ -253,12 +255,14 @@ Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-Auto
 
 - [WINDOWSCUSTOMIZATION](https://windowscustomization.com/) - Shape your computer beautifully - Themes, Icons, Cursors, Wallpapers, Rainmeter & Miscellaneous.
 - [7themes-su](https://7themes.su/) - OS Windows Themes, Skins, Icons, Wallpaper, Cursors & Miscellaneous.
+- [VSTHEMES](https://vsthemes.org/en/) - Windows Design - Customize Desktop - Themes, Wallpapers, Skind, Icons, Cursors, Programs, Articles, etc
 - [Discover Customization on DeviantArt](https://www.deviantart.com/topic/customization) - Download custom skins and assets to personalize your day-to-day tools and applications.
 - [Explore Windows10](https://www.deviantart.com/tag/windows10) - Explore the Best Windows10 Art & Themes.
 - [Dracula](https://draculatheme.com/) - One theme. All platforms.
 - [Catppuccin Theme](https://github.com/catppuccin) - Catppuccin is a community-driven pastel theme that aims to be the middle ground between low and high contrast themes.
 - [Aura Theme](https://github.com/daltonmenezes/aura-theme) - A beautiful dark theme for your favorite apps.
 - [themer](https://themer.dev/) - development environment theme creator
+- [Theme Studio](https://themes.vscode.one/) - Create Your Own VS Code Themes
 - [terminal-sexy](https://terminal.sexy/) - Terminal Color Scheme Designer
 - [TerminalSplash](https://terminalsplash.com/) - Windows Terminal Themes
 - [Windows Terminal Themes](https://windowsterminalthemes.dev/) - Windows Terminal Themes
