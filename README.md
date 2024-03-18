@@ -126,6 +126,8 @@ You can just run the following in your powershell:
 
 📌 [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Remove large amounts of unwanted applications quickly.
 
+📌 [Revo Uninstaller](https://www.revouninstaller.com/) - Uninstall unwanted programs and their leftovers, quickly and easily!
+
 > That basically covers it for the first section. With these tools you now should have a nice clean, debloated, optimised and fast system.
 
 ## 🌟 SECOND:
