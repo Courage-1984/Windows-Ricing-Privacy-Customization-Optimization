@@ -107,14 +107,14 @@ Lists of Reg Keys:
 🔥 [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 You can just run the following in your powershell:
-``` sh
+``` powershell
   iwr -useb https://christitus.com/win | iex
 ```
 
 ✨ [SophiApp](https://github.com/Sophia-Community/SophiApp) - ⚡ The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 
 You can just run the following in your powershell:
-``` sh
+``` powershell
   iwr app.sophia.team -useb | iex
 ```
 
