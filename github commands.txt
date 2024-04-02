@@ -1,0 +1,10 @@
+git init
+
+git add .
+
+git remote add origin https://github.com/Courage-1984/Windows-Ricing-Privacy-Customization-Optimization.git
+
+git commit -m "message"
+
+git push -u origin main
+
