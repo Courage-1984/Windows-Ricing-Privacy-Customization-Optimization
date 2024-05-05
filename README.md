@@ -202,7 +202,9 @@ You can just run the following in your powershell:
 
 [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 
-[QTTabBar](http://qttabbar.wikidot.com/) - Adds a lot more functionality to Explorer, including tabs, hotkeys and alternative navigation panes.
+[QTTabBar](http://qttabbar.wikidot.com/) - Adds a lot more functionality to Explorer, including tabs, hotkeys and alternative navigation panes. RATHER USE THE NEXT ONE:
+
+[QtTabBar](https://www.yuque.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer. [Githhub](https://github.com/indiff/qttabbar)
 
 [OldNewExplorer](https://msfn.org/board/topic/170375-oldnewexplorer-119/) - OldNewExplorer is the Windows 10 (and Windows 8.1, and 8) shell extension / tweaker which can undo "improvements" to file browsing made in newer Windows version. Everything is optional for your liking.
 
