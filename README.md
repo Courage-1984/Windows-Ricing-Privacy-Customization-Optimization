@@ -238,12 +238,12 @@ Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-Auto
 
 #### A few things to make various parts of your Windows OS Translucent
 
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) *A lightweight utility that makes the Windows **taskbar** translucent/transparent.*
-- [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) *A lightweight utility that makes the Windows **Start Menu** translucent/transparent*
-- [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) *Add custom effect to global system **title bar**, support win10 and win11.*
-- [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) *Add background Blur effect or Acrylic (Mica for win11) effect to **explorer** for win10 and win11.*
-- [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) *Translucent effect for most of the win32 **flyouts**.*
-- [Translucent Flyouts Config GUI](https://github.com/Satanarious/TranslucentFlyoutsConfig) *A configuration GUI for Translucent Flyouts*
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows **taskbar** translucent/transparent.
+- [TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) - A lightweight utility that makes the Windows **Start Menu** translucent/transparent
+- [DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass) - Add custom effect to global system **title bar**, support win10 and win11.
+- [ExplorerBlurMica](https://github.com/Maplespe/ExplorerBlurMica) - Add background Blur effect or Acrylic (Mica for win11) effect to **explorer** for win10 and win11.
+- [TranslucentFlyouts](https://github.com/ALTaleX531/TranslucentFlyouts) - Translucent effect for most of the win32 **flyouts**.
+- [Translucent Flyouts Config GUI](https://github.com/Satanarious/TranslucentFlyoutsConfig) - A configuration GUI for Translucent Flyouts
 
 #### Cursor:
 
