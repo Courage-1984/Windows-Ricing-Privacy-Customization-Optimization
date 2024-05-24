@@ -202,7 +202,9 @@ You can just run the following in your powershell:
 
 [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 
-[QTTabBar](http://qttabbar.wikidot.com/) - Adds a lot more functionality to Explorer, including tabs, hotkeys and alternative navigation panes.
+[QTTabBar](http://qttabbar.wikidot.com/) - Adds a lot more functionality to Explorer, including tabs, hotkeys and alternative navigation panes. RATHER USE THE NEXT ONE:
+
+[QtTabBar](https://www.yuque.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer. [Githhub](https://github.com/indiff/qttabbar)
 
 [OldNewExplorer](https://msfn.org/board/topic/170375-oldnewexplorer-119/) - OldNewExplorer is the Windows 10 (and Windows 8.1, and 8) shell extension / tweaker which can undo "improvements" to file browsing made in newer Windows version. Everything is optional for your liking.
 
@@ -254,8 +256,12 @@ Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-Auto
 - [macOS Cursors Megapack for Windows](https://github.com/antiden/macOS-cursors-for-Windows?tab=readme-ov-file) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
 
 ****check out this repo above for a folder of mac cursors****
+
+- [Modern Inverted Mouse Cursors for Windows](https://github.com/emvaized/modern_inverted_mouse_cursors) - Modern Inverted Mouse Cursors for Windows - This project aims to recreate standard inverted mouse cursors in Windows 10/11 with a more modern design
+- [Adwaita cursors for HiDPI displays](https://github.com/manu-mannattil/adwaita-cursors) - Adwaita cursors for HiDPI displays - GNOME's Adwaita cursor theme in sizes 24, 30, ..., 96 and custom colors
   
 - [Open Cursor Library](http://www.rw-designer.com/) - This library contains computer mouse cursors for Microsoft Windows systems. - 182220 cursors
+- [Open Cursor Library - 182220 cursors](http://www.rw-designer.com/cursor-library) - Open Cursor Library - 182220 cursors
 - [Cursor Editor](https://www.cursor.cc/?) - A Cursor Editor for those custom cursors of yours.
 
 
@@ -301,6 +307,8 @@ Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-Auto
 [winthemers](https://winthemers.github.io/) - winthemers is a community dedicated to customizing windows. [Github Repo](https://github.com/winthemers)
 
 [r/ricing](https://www.reddit.com/r/ricing/) - This reddit is intended to be a central resource to help users get started with desktop customization
+
+[The Ricing Guide - Linux](https://nam.is-a.dev/blog/ricing/) - The Ricing Guide - Linux
 
 ***
 
