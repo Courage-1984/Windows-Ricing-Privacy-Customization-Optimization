@@ -32,8 +32,33 @@ Create a Bootable USB Recovery Drive for Windows 10, this is essebtial as you co
 # 🪟 Windows
 *some important and must have top level stuff for windows*
 
+> [!TIP] Good to Know:
+>     [**Use the System File Checker tool to repair missing or corrupted system files:**](https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e) If some Windows functions aren't working or Windows crashes, use the System File Checker to scan Windows and restore your files.  (**NOTE:** This doesn't replace the fact that you **should** always make a system restore point before changing things)
+
+1. Open an elevated command prompt.
+2. Type the following command, and then press Enter.  It may take several minutes for the command operation to be completed.
+```cmd
+	DISM.exe /Online /Cleanup-image /Restorehealth	
+```
+3. When it has completed type the following command, and then press Enter.
+```cmd
+	sfc /scannow
+```
+4. A system restart might be required.
+5. Go read the full article [HERE](https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e).
+
+[Keycheck](https://keycheck.dev/) - Keycheck - Check Shortcuts of 101 Apps
+
 ### 📁 Windows & Windows Files
-[MAS](https://massgrave.dev/) - Microsoft Activation Scripts: A Windows and Office activator, also get your Genuine Installation Media for Windows & Office here.
+[MAS](https://massgrave.dev/) - Microsoft Activation Scripts: A Windows and Office activator, also get your Genuine Installation Media for Windows & Office here [Github](https://github.com/massgravel/massgrave.dev).
+
+[Microsoft Activation Scripts (MAS)](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
+
+[Fake Windows Activators](https://pastebin.com/gCmWs2GR) - Fake Windows Activators
+
+[Gravesoft](https://gravesoft.dev/) - People making open-source and free software for Windows.
+
+[Microsoft Software Download Listing](https://msdl.gravesoft.dev/) - Microsoft Software Download Listing lets you browse and download products from Microsoft Software Download pages [Github](https://github.com/gravesoft/msdl).
 
 [TechBench](https://tb.rg-adguard.net/public.php) - Get your windows and office ISOs here. This project will no longer be updated. New project:
 
@@ -106,14 +131,14 @@ Lists of Reg Keys:
 
 🔥 [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
-You can just run the following in your powershell:
+You can just run the following in your powershell (admin):
 ``` powershell
   iwr -useb https://christitus.com/win | iex
 ```
 
 ✨ [SophiApp](https://github.com/Sophia-Community/SophiApp) - ⚡ The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
 
-You can just run the following in your powershell:
+You can just run the following in your powershell (admin):
 ``` powershell
   iwr app.sophia.team -useb | iex
 ```
@@ -127,6 +152,8 @@ You can just run the following in your powershell:
 📌 [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Remove large amounts of unwanted applications quickly.
 
 📌 [Revo Uninstaller](https://www.revouninstaller.com/) - Uninstall unwanted programs and their leftovers, quickly and easily!
+
+📌 [Uninstalr](https://uninstalr.com/) - Uninstalr is the best Windows uninstaller - Uninstalr is a fast, lightweight and accurate way to uninstall software in Windows.
 
 > That basically covers it for the first section. With these tools you now should have a nice clean, debloated, optimised and fast system.
 
@@ -151,6 +178,8 @@ You can just run the following in your powershell:
 - [Debloat Windows 10](https://github.com/W4RH4WK/Debloat-Windows-10) - A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps
 - [DisableWinTracking](https://github.com/bitlog2/DisableWinTracking?tab=readme-ov-file) - Uses some known methods that attempt to minimize tracking in Windows 10
 - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+- [RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) - Windows 10 Privacy Guide
 - [Comparison of Windows 10 Privacy tools](https://www.ghacks.net/2015/08/14/comparison-of-windows-10-privacy-tools/) - Comparison of Windows 10 Privacy tools
 
@@ -172,6 +201,8 @@ You can just run the following in your powershell:
 - [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Process Explorer shows you information about which handles and DLLs processes have opened or loaded
 - [Pegasun System Utilities](https://pegasun.com/system-utilities) - Maximize PC performance and battery life
 - [Blackbird](https://www.getblackbird.net/) - Windows privacy, security and performance
+- [Start X Back](https://github.com/echnobas/StartXBack) - A universal crack for Start Is/All Back.
+- [Modern Flyouts](https://github.com/ModernFlyouts-Community/ModernFlyouts) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows.
 
 ***
 ![wallpaper_3840x886_1710698131501](https://github.com/Courage-1984/Windows-Ricing-Privacy-Customization-Optimization/assets/18268669/59647495-3441-4328-b2ce-db6ae409a6cf)
@@ -202,13 +233,17 @@ You can just run the following in your powershell:
 
 [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 
-[QTTabBar](http://qttabbar.wikidot.com/) - Adds a lot more functionality to Explorer, including tabs, hotkeys and alternative navigation panes. RATHER USE THE NEXT ONE:
+[QTTabBar](http://qttabbar.wikidot.com/) - Adds a lot more functionality to Explorer, including tabs, hotkeys and alternative navigation panes. THIS ONE IS BETTER THAN THE NEXT
+
+[K-Lite Codec Pack](https://codecguide.com/download_kl.htm) - Download the K-Lite Codec Pack so that QTTabBar can hover preview more file types!
 
 [QtTabBar](https://www.yuque.com/indiff/qttabbar) - QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer. [Githhub](https://github.com/indiff/qttabbar)
 
 [OldNewExplorer](https://msfn.org/board/topic/170375-oldnewexplorer-119/) - OldNewExplorer is the Windows 10 (and Windows 8.1, and 8) shell extension / tweaker which can undo "improvements" to file browsing made in newer Windows version. Everything is optional for your liking.
 
 [StartIsBack](https://startisback.com/) - Real start menu for Windows 8 and Windows 10. Start menu is back and it's better than ever. Get the most useful shell enhancement for Windows 10 now!
+
+[WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - A UWP version of winver
 
 [Volume²](https://github.com/irzyxa/Volume2) - advanced Windows volume control
 
@@ -219,6 +254,8 @@ You can just run the following in your powershell:
 [AutoHotkey](https://www.autohotkey.com/) - The ultimate automation scripting language for Windows.
 
 Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-AutoHotkeys) - Custom AutoHotkeys for efficiency / productivity.
+
+Some more AHK: [Xatmo980 Tools](https://github.com/Xatmo980/Tools) - A Small Collection of my Autohotkey Programs
 
 [ClipClip](https://clipclip.com/) - clipboard management software for Windows
 
@@ -257,6 +294,8 @@ Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-Auto
 
 ****check out this repo above for a folder of mac cursors****
 
+- [Posy's improved cursors for Windows 10](http://www.michieldb.nl/other/cursors/) - Posy's improved cursors for Windows 10
+
 - [Modern Inverted Mouse Cursors for Windows](https://github.com/emvaized/modern_inverted_mouse_cursors) - Modern Inverted Mouse Cursors for Windows - This project aims to recreate standard inverted mouse cursors in Windows 10/11 with a more modern design
 - [Adwaita cursors for HiDPI displays](https://github.com/manu-mannattil/adwaita-cursors) - Adwaita cursors for HiDPI displays - GNOME's Adwaita cursor theme in sizes 24, 30, ..., 96 and custom colors
   
@@ -271,8 +310,61 @@ Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-Auto
 - [Google Fonts](https://fonts.google.com/) - Browse Fonts
 - [FontSpace](https://www.fontspace.com/) - Free Fonts | 120,000+ Font Downloads
 - [DaFont](https://www.dafont.com/) - Download fonts
+- [Dfonts](https://www.dfonts.org/) - Dfonts - Free Fonts Download
 
 ### I have not yet gotten into themes and wallpapers but I have some links for y'all and don't forget the ricing guides at the end of this section!
+
+#### Wallpapers:
+
+**Go check out my [Wallpaper Image Collections](https://github.com/Courage-1984/Wallpaper-Image-Collections) Github repo for some nice wallpapers**
+
+- [WallpaperAccess](https://wallpaperaccess.com/) - Access to Thousands of Awesome Free HD Wallpapers
+- [Original Windows Wallpapers](https://wallpaperaccess.com/original-windows) - Top Free Original Windows Backgrounds
+- [Wallpapersden](https://wallpapersden.com/) - 4K Wallpapers | HD Wallpaper | Ultra HD 4K, 8K Wallpapers for Desktop & Mobiles
+- [WallpaperHub](https://www.wallpaperhub.app/) - Free wallpapers for your PC, phone and tablet
+
+### Theming:
+
+#### Suggested Theme Patcher:
+
+ [**SecureUxTheme**](https://github.com/namazso/SecureUxTheme) - A secure boot compatible in-memory UxTheme patcher - SecureUxTheme is a piece of software that removes signature verification of styles in Windows.
+
+ #### **GUIDES:**
+
+ - [Help: Step by step installing SecureUxTheme and a custom theme](https://github.com/namazso/SecureUxTheme/wiki/Help:-Step-by-step-installing-SecureUxTheme-and-a-custom-theme) - Help: Step by step installing SecureUxTheme and a custom theme
+- [How to install Windows 10 or 11 Themes](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586) - A small tutorial on how to install and apply Windows 10 and 11 Themes
+- [Home: WINDOWS 10 THEMES by niivu](https://github.com/niivu/Windows-10-themes/wiki) - Welcome to the Windows-10-themes wiki! For those interested in installing themes for Windows 10.
+
+#### Other Theme Patchers:
+
+- [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en) - UltraUXThemePatcher modifies your system files so that 3. party themes can be used.
+- [UXTheme Patcher](https://uxthemepatcher.com/) - UXTheme Patcher is a software that patch Windows 10 or Windows 11 theme signature requirements to enable Windows 10 or Windows 11 theme customization.
+
+#### niivu:
+
+*dabble in graphic design. Mainly GUI for Windows. Themes, skins, wallpapers & icons*
+
+- [WINDOWS 10 THEMES by niivu](https://github.com/niivu/Windows-10-themes) - Windows 10 desktop themes created by niivu designs
+- [WINDOWS 11 THEMES by niivu](https://github.com/niivu/Windows-11-themes) - Windows 11 desktop themes created by niivu designs
+- [windows-customization-extras](https://github.com/niivu/windows-customization-extras) - Extra skins and Wallpapers for Windows Customization. Including Stardock Curtains, PotPlayer, foobar2000, etc..
+- [7tsp-Icon-themes](https://github.com/niivu/7tsp-Icon-themes) - 7tsp icon themes for Windows as well as some extras. Please read the guide prior to installation
+- [RoundedTB](https://github.com/RoundedTB/RoundedTB) - Add margins, rounded corners and segments to your taskbars!
+- [niivu deviantart Windows Themes](https://www.deviantart.com/niivu/gallery) - niivu deviantart Windows Themes - 347.6K Watchers, 63 Deviations, 2.8M Pageviews
+- [Big Sur 2 - Windows 10 Themes](https://www.deviantart.com/niivu/art/Big-Sur-2-Windows-10-Themes-861727886) - Big Sur 2 - Windows 10 Themes
+- [Paranoid Android Redux for Windows 10](https://www.deviantart.com/niivu/art/Paranoid-Android-Redux-for-Windows-10-897408948) - Paranoid Android Redux for Windows 10
+
+#### DeviantArt:
+
+- [DeviantArt](https://www.deviantart.com/) - DeviantArt - The Largest Online Art Gallery and Community
+- [Windows10themes](https://www.deviantart.com/tag/windows10themes) - Explore the Best Windows10themes Art
+- [macOS Sierra for all Windows OS](https://www.deviantart.com/peterrollar/art/macOS-Sierra-for-all-Windows-OS-624954743) - macOS Sierra for all Windows OS
+- [macOS theme](https://www.deviantart.com/macos2020/art/macOS-theme-835225319) - macOS theme
+- [macOS Dark theme](https://www.deviantart.com/macos2020/art/macOS-Dark-theme-835637852) - macOS Dark theme
+- [Windows X Desktop](https://www.deviantart.com/kamranvaliyev/art/Windows-X-Desktop-861559168) - Windows X Desktop
+- [Windows X Button](https://www.deviantart.com/kamranvaliyev/art/Windows-X-Button-861556345) - Windows X Button
+- [Big Sur for Google Chrome](https://www.deviantart.com/mnmldsgn/art/Big-Sur-for-Google-Chrome-860192433) - Big Sur for Google Chrome
+
+#### Misc:
 
 - [WINDOWSCUSTOMIZATION](https://windowscustomization.com/) - Shape your computer beautifully - Themes, Icons, Cursors, Wallpapers, Rainmeter & Miscellaneous.
 - [7themes-su](https://7themes.su/) - OS Windows Themes, Skins, Icons, Wallpaper, Cursors & Miscellaneous.
@@ -285,8 +377,14 @@ Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-Auto
 - [themer](https://themer.dev/) - development environment theme creator
 - [Theme Studio](https://themes.vscode.one/) - Create Your Own VS Code Themes
 - [terminal-sexy](https://terminal.sexy/) - Terminal Color Scheme Designer
+- [Terminals Are Sexy](https://terminalsare.sexy/) - A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [TerminalSplash](https://terminalsplash.com/) - Windows Terminal Themes
 - [Windows Terminal Themes](https://windowsterminalthemes.dev/) - Windows Terminal Themes
+- [Stardock WindowBlinds](https://www.stardock.com/products/windowblinds/) - Customize the look and feel of your Windows 10 and Windows 11 Start menu*, taskbar, window frames, and more.
+- [Stardock Products Multi Patcher v1.4](https://nsaneforums.com/topic/444155-stardock-products-multi-patcher-v14/?_fromLogin=1) - Stardock Products Multi Patcher v1.4
+- [BigSurSounds](https://github.com/ThisIsNoahEvans/BigSurSounds) - Sounds extracted from macOS 11 Big Sur Beta 1
+- [BigSurSounds](https://bigsur-sounds.itsnoahevans.co.uk/) - BigSurSounds - Download Entire Library
+- [Fluent Search](https://www.fluentsearch.net/) - With Fluent Search, you can search for running apps, browser tabs, in-app content, files and more. Available for Windows 10/11 only.
 
 ### 🌐 Ricing Guides & Indexes
 
@@ -309,6 +407,8 @@ Some of my AHK: [Custom-AutoHotkeys](https://github.com/Courage-1984/Custom-Auto
 [r/ricing](https://www.reddit.com/r/ricing/) - This reddit is intended to be a central resource to help users get started with desktop customization
 
 [The Ricing Guide - Linux](https://nam.is-a.dev/blog/ricing/) - The Ricing Guide - Linux
+
+[Windux](https://github.com/OrbEnforcer/Windux) - Just a bunch of random ideas I took from reddit or other OS and tried to get them on windows through rainmeter.
 
 ***
 
